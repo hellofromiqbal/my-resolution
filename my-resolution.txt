@@ -2,3 +2,5 @@ My Resolution
 - Eat 3 times a day
 - Sleep before 11 p.m everyday
 - Exercise every Saturday dusk
+- Develop website for freelancing
+- Learn react js
