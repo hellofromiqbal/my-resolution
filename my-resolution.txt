@@ -3,4 +3,4 @@ My Resolution
 - Sleep before 11 p.m everyday
 - Exercise every Saturday dusk
 - Develop website for freelancing
-- Learn react js
+- Learn node js
