@@ -2,9 +2,11 @@ My NodeJS Roadmap
 - Learn file system
   * Importing file system
   * Learn fs.readFile sync/async
-   ^ Learn with production use-case
-   ^ Learn from YouTube
+   ^ Use callback func in fs.readFile async
+   ^ Test with one use-case
+- Learn async/await
 - Learn node js server
 - Learn express js
 - Learn ejs templating engine
-  ^ ejs
+ ^ ejs
+- Python
