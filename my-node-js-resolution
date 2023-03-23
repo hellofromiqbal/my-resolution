@@ -1,0 +1,7 @@
+My NodeJS Roadmap
+- Learn file system
+  * Importing file system
+  * Learn fs.readFile sync/async
+- Learn node js server
+- Learn express js
+- Learn ejs templating engine
